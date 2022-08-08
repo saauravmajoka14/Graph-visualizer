@@ -1,5 +1,5 @@
 # Graph-visualizer
--Built the Graph visualizer and implement various algorithms: 
+- Built the Graph visualizer and implement various algorithms: 
 
   i) Compliment
   
